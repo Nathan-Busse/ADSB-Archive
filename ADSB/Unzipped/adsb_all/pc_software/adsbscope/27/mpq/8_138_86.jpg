@@ -1,0 +1,37 @@
+<html>
+	<head>
+<!--
+<?xml version="1.0" encoding="UTF-8"?>
+<WISPAccessGatewayParam xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://hotspot.alwayson.co.za/hotspot/WISPAccessGatewayParam.xsd">
+<Redirect>
+	<AccessProcedure>1.0</AccessProcedure>
+	<AccessLocation>isocc=za,cc=27,ac=11,network=AlwaysOn@MikesKitchen</AccessLocation>
+	<LocationName>AlwaysOn:ZA, Restaurant, Mikes Kitchen Northgate</LocationName>
+	<LoginURL>https://gateway.alwayson.co.za/login?dst=http%3A%2F%2Fotile1.mqcdn.com%2Ftiles%2F1.0.0%2Fosm%2F8%2F138%2F86.png</LoginURL>
+	<AbortLoginURL>http://gateway.alwayson.co.za/logout</AbortLoginURL>
+	<MessageType>100</MessageType>
+	<ResponseCode>0</ResponseCode>
+</Redirect>
+</WISPAccessGatewayParam>
+
+-->
+	</head>
+	<title>...</title> 
+	<body> 
+		<form name="redirect" action="" method="post"> 
+			<input type="hidden" name="mac" value="AC:81:12:12:E9:54"> 
+			<input type="hidden" name="hostname" value="gateway.alwayson.co.za"> 
+			<input type="hidden" name="ip" value="10.14.111.25"> 
+			<input type="hidden" name="user" value="$(user)"> 
+			<input type="hidden" name="link-login" value="https://gateway.alwayson.co.za/login?dst=http%3A%2F%2Fotile1.mqcdn.com%2Ftiles%2F1.0.0%2Fosm%2F8%2F138%2F86.png"> 
+			<input type="hidden" name="link-orig" value="http://otile1.mqcdn.com/tiles/1.0.0/osm/8/138/86.png">
+			<input type="hidden" name="error" value=""> 
+		</form> 
+		<script language="JavaScript" type="text/javascript"> 
+			<!-- 
+         document.redirect.action = "https://hotspot.alwayson.co.za/hotspot/AOLogin.aspx";
+			   document.redirect.submit(); 
+			//--> 
+		</script> 
+	</body>
+</html>

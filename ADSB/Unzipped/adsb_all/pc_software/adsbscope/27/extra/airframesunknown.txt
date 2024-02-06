@@ -1,0 +1,521 @@
+0080DC:South Africa :::
+008052:South Africa :::
+00B7D4:South Africa :::
+0085CD:South Africa :::
+00A285:South Africa :::
+030031:Botswana  :::
+00999A:South Africa :::
+00999B:South Africa :::
+00B224:South Africa :::
+00887F:South Africa :::
+01E0F9:Libyan Arab Ja:::
+00C464:South Africa :::
+0083CC:South Africa :::
+0082D6:South Africa :::
+00C455:South Africa :::
+01E1E0:Libyan Arab Ja:::
+006019:Mozambique :::
+00AE87:South Africa :::
+00A51C:South Africa :::
+406D1A:UK        :::
+009997:South Africa :::
+00878F:South Africa :::
+00AF4A:South Africa :::
+3C4B35:Germany   :::
+00B341:South Africa :::
+040078:Ethiopia  :::
+00B229:South Africa :::
+00C456:South Africa :::
+0082D7:South Africa :::
+E48E71:Brazil    :::
+00B275:South Africa :::
+201027:Namibia   :::
+008140:South Africa :::
+00B164:South Africa :::
+010D21:Egypt     :::
+00C458:South Africa :::
+39BD29:France    :::
+00B228:South Africa :::
+3450D6:Spain     :::
+0097EC:South Africa :::
+00B22A:South Africa :::
+00B226:South Africa :::
+009BA3:South Africa :::
+009C78:South Africa :::
+00B22B:South Africa :::
+0086FF:South Africa :::
+00B223:South Africa :::
+00B272:South Africa :::
+0083C3:South Africa :::
+00B22C:South Africa :::
+00B2CA:South Africa :::
+201031:Namibia   :::
+0083C1:South Africa :::
+008194:South Africa :::
+00C459:South Africa :::
+00C454:South Africa :::
+00C857:South Africa :::
+0088B6:South Africa :::
+008756:South Africa :::
+00B1F8:South Africa :::
+00A51A:South Africa :::
+008364:South Africa :::
+3C4B2F:Germany   :::
+00C45A:South Africa :::
+00B2DF:South Africa :::
+4B846D:Turkey    :::
+E48E72:Brazil    :::
+00BB70:South Africa :::
+040104:Ethiopia  :::
+009EE0:South Africa :::
+00B280:South Africa :::
+780C9E:China     :::
+008024:South Africa :::
+00813A:South Africa :::
+00839E:South Africa :::
+00A05F:South Africa :::
+89630F:U.A. Emirates:::
+20102C:Namibia   :::
+06A1BC:Qatar     :::
+DF0533:ufo       :::
+00B1FA:South Africa :::
+00813B:South Africa :::
+008699:South Africa :::
+00600C:Mozambique :::
+008351:South Africa :::
+00834B:South Africa :::
+04C118:Kenya     :::
+008187:South Africa :::
+008D7A:South Africa :::
+002402:ufo       :::
+00B1FB:South Africa :::
+00B21C:South Africa :::
+006012:Mozambique :::
+00822C:South Africa :::
+0082BE:South Africa :::
+00A36D:South Africa :::
+62F378:ufo       :::
+00B23D:South Africa :::
+AB876A:USA       :::
+00C453:South Africa :::
+0008CB:ufo       :::
+06A1A2:Qatar     :::
+030015:Botswana  :::
+06002F:Mauritius :::
+008D8F:South Africa :::
+0085A0:South Africa :::
+00C452:South Africa :::
+008080:South Africa :::
+76CDAC:Singapore :::
+06A0B6:Qatar     :::
+07403D:Seychelles :::
+008098:South Africa :::
+FF41DD:ufo       :::
+00FA0A:South Africa :::
+06A136:Qatar     :::
+040132:Ethiopia  :::
+00B218:South Africa :::
+00C465:South Africa :::
+00872E:South Africa :::
+3C4B2A:Germany   :::
+0099E9:South Africa :::
+00B2DB:South Africa :::
+00B1A1:South Africa :::
+3C4B27:Germany   :::
+00817C:South Africa :::
+008129:South Africa :::
+00996D:South Africa :::
+00FDD7:South Africa :::
+04005D:Ethiopia  :::
+00B1E2:South Africa :::
+00E869:South Africa :::
+E48E6F:Brazil    :::
+A6EB54:USA       :::
+00B2C9:South Africa :::
+00B225:South Africa :::
+00B89B:South Africa :::
+008081:South Africa :::
+00B7E2:South Africa :::
+3450D7:Spain     :::
+D09451:ufo       :::
+008305:South Africa :::
+4BA9DA:Turkey    :::
+030023:Botswana  :::
+00BE5A:South Africa :::
+00B220:South Africa :::
+00E54F:South Africa :::
+04C117:Kenya     :::
+00DD58:South Africa :::
+009A0D:South Africa :::
+00C392:South Africa :::
+00B1F7:South Africa :::
+009999:South Africa :::
+406D4D:UK        :::
+008FFF:South Africa :::
+896399:U.A. Emirates:::
+0083EC:South Africa :::
+008349:South Africa :::
+896181:U.A. Emirates:::
+00A284:South Africa :::
+00FAB8:South Africa :::
+06A1BF:Qatar     :::
+009B27:South Africa :::
+0082D2:South Africa :::
+040085:Ethiopia  :::
+008941:South Africa :::
+008A25:South Africa :::
+04C159:Kenya     :::
+0085A3:South Africa :::
+060030:Mauritius :::
+76CDA2:Singapore :::
+008487:South Africa :::
+0096BB:South Africa :::
+07403B:Seychelles :::
+008AA1:South Africa :::
+CA59AD:ufo       :::
+06A0B5:Qatar     :::
+00A12F:South Africa :::
+040131:Ethiopia  :::
+00DD25:South Africa :::
+00808C:South Africa :::
+00D0F6:South Africa :::
+827B81:India     :::
+06A191:Qatar     :::
+00A38F:South Africa :::
+06A13D:Qatar     :::
+00A60D:South Africa :::
+00B1EA:South Africa :::
+896180:U.A. Emirates:::
+06E00F:Rwanda    :::
+DACA0F:ufo       :::
+00A0C8:South Africa :::
+00B060:South Africa :::
+06E011:Rwanda    :::
+00A856:South Africa :::
+A2379D:USA       :::
+006011:Mozambique :::
+00D681:South Africa :::
+00B227:South Africa :::
+00B1F9:South Africa :::
+896310:U.A. Emirates:::
+406D4C:UK        :::
+405F37:UK        :::
+06A1BE:Qatar     :::
+009993:South Africa :::
+E48E70:Brazil    :::
+A50667:USA       :::
+00C5A4:South Africa :::
+3C4B2C:Germany   :::
+00C8DC:South Africa :::
+A63557:USA       :::
+040077:Ethiopia  :::
+A626AF:USA       :::
+00D075:South Africa :::
+000123:ufo       :::
+00878E:South Africa :::
+34520E:Spain     :::
+009AA9:South Africa :::
+A0FBAD:USA       :::
+00B2F1:South Africa :::
+00DDF7:South Africa :::
+00A3DD:South Africa :::
+00D61B:South Africa :::
+201037:Namibia   :::
+CC1800:ufo       :::
+00E4E8:South Africa :::
+0900DB:Angola    :::
+00B432:South Africa :::
+780A63:China     :::
+00E63A:South Africa :::
+00EBF5:South Africa :::
+009E94:South Africa :::
+A22CD6:USA       :::
+008330:South Africa :::
+00865D:South Africa :::
+65C9CB:ufo       :::
+00CCE2:South Africa :::
+0081A9:South Africa :::
+B49200:ufo       :::
+76CDA5:Singapore :::
+A25CD2:USA       :::
+3C4B26:Germany   :::
+009795:South Africa :::
+008C6D:South Africa :::
+AB8821:USA       :::
+A0F7E7:USA       :::
+040062:Ethiopia  :::
+00A155:South Africa :::
+00893D:South Africa :::
+00E590:South Africa :::
+009C44:South Africa :::
+04C11B:Kenya     :::
+06E012:Rwanda    :::
+00B2E6:South Africa :::
+0080A3:South Africa :::
+06A1E6:Qatar     :::
+00A56B:South Africa :::
+406E0F:UK        :::
+00842E:South Africa :::
+00A094:South Africa :::
+5B2C12:ufo       :::
+B19900:ufo       :::
+4BA9EB:Turkey    :::
+00A210:South Africa :::
+00A9AC:South Africa :::
+00B217:South Africa :::
+054024:Madagascar :::
+00BF77:South Africa :::
+76CDA3:Singapore :::
+00E251:South Africa :::
+04012A:Ethiopia  :::
+0080B3:South Africa :::
+00B03E:South Africa :::
+5000E6:San Marino :::
+0084E0:South Africa :::
+780A97:China     :::
+00D3E4:South Africa :::
+00A1BE:South Africa :::
+008334:South Africa :::
+0083B6:South Africa :::
+80A05D:India     :::
+00C161:South Africa :::
+A1A7DD:USA       :::
+06A0B1:Qatar     :::
+00B893:South Africa :::
+089EBA:ufo       :::
+00B106:South Africa :::
+A85700:USA       :::
+00D123:South Africa :::
+008169:South Africa :::
+008357:South Africa :::
+00B0DC:South Africa :::
+0088B5:South Africa :::
+008C1F:South Africa :::
+0089D8:South Africa :::
+006014:Mozambique :::
+0756E0:ufo       :::
+AA1896:USA       :::
+A1CC50:USA       :::
+00AF4F:South Africa :::
+008125:South Africa :::
+008B8F:South Africa :::
+008692:South Africa :::
+5D9C76:ufo       :::
+009F74:South Africa :::
+A599BE:USA       :::
+00B47E:South Africa :::
+008210:South Africa :::
+0086F6:South Africa :::
+00F25E:South Africa :::
+008D81:South Africa :::
+00AF6C:South Africa :::
+00B35B:South Africa :::
+00AF70:South Africa :::
+008FFA:South Africa :::
+406B48:UK        :::
+201022:Namibia   :::
+4BA9EA:Turkey    :::
+004028:Zimbabwe  :::
+00C22E:South Africa :::
+008DE1:South Africa :::
+008139:South Africa :::
+278FF7:ufo       :::
+03003E:Botswana  :::
+008126:South Africa :::
+04C15A:Kenya     :::
+00C468:South Africa :::
+A3D9CA:USA       :::
+006016:Mozambique :::
+03003F:Botswana  :::
+00C469:South Africa :::
+813D00:India     :::
+00C467:South Africa :::
+009069:South Africa :::
+06A0FC:Qatar     :::
+896456:U.A. Emirates:::
+89648A:U.A. Emirates:::
+B8FB8E:ufo       :::
+3C4B28:Germany   :::
+406B20:UK        :::
+054027:Madagascar :::
+20101E:Namibia   :::
+406ECC:UK        :::
+4850F6:Netherlands:::
+00C46A:South Africa :::
+406B21:UK        :::
+00CBAC:South Africa :::
+406E10:UK        :::
+004013:Zimbabwe  :::
+76CDA7:Singapore :::
+06A10A:Qatar     :::
+00A06F:South Africa :::
+008974:South Africa :::
+00BD9A:South Africa :::
+00A8C2:South Africa :::
+4074E4:UK        :::
+040079:Ethiopia  :::
+090001:Angola    :::
+00A709:South Africa :::
+009132:South Africa :::
+06A10E:Qatar     :::
+00834C:South Africa :::
+00601E:Mozambique :::
+896307:U.A. Emirates:::
+06A0F8:Qatar     :::
+009131:South Africa :::
+00DCD8:South Africa :::
+009E5A:South Africa :::
+008FA2:South Africa :::
+06A0FF:Qatar     :::
+00B27F:South Africa :::
+00B21D:South Africa :::
+8964BD:U.A. Emirates:::
+9BA200:ufo       :::
+00E92E:South Africa :::
+4BB1C5:Turkey    :::
+008697:South Africa :::
+00B154:South Africa :::
+43E9BC:UK        :::
+0089FC:South Africa :::
+0088B3:South Africa :::
+008686:South Africa :::
+3C4B31:Germany   :::
+00E1F7:South Africa :::
+40688B:UK        :::
+06A102:Qatar     :::
+040069:Ethiopia  :::
+00985C:South Africa :::
+8963DD:U.A. Emirates:::
+4850AB:Netherlands:::
+008111:South Africa :::
+00C45D:South Africa :::
+008758:South Africa :::
+008DE2:South Africa :::
+030016:Botswana  :::
+00B2DA:South Africa :::
+03003D:Botswana  :::
+780A64:China     :::
+00864B:South Africa :::
+20103D:Namibia   :::
+00834D:South Africa :::
+008694:South Africa :::
+074045:Seychelles :::
+00B3DA:South Africa :::
+4BA9E1:Turkey    :::
+43EA8B:UK        :::
+009130:South Africa :::
+00A338:South Africa :::
+04014D:Ethiopia  :::
+00A674:South Africa :::
+0094B3:South Africa :::
+00830C:South Africa :::
+08CEFC:Democratic Rep:::
+FA43B2:ufo       :::
+8963D7:U.A. Emirates:::
+0098AF:South Africa :::
+06A10B:Qatar     :::
+06A0FE:Qatar     :::
+00B290:South Africa :::
+008DCD:South Africa :::
+008D43:South Africa :::
+008584:South Africa :::
+896536:U.A. Emirates:::
+A340B7:USA       :::
+008071:South Africa :::
+04C149:Kenya     :::
+0092D2:South Africa :::
+009F56:South Africa :::
+00814A:South Africa :::
+89630D:U.A. Emirates:::
+06A0B0:Qatar     :::
+406EC7:UK        :::
+896305:U.A. Emirates:::
+00A430:South Africa :::
+8963F2:U.A. Emirates:::
+00A981:South Africa :::
+896188:U.A. Emirates:::
+06A0F6:Qatar     :::
+00C457:South Africa :::
+896538:U.A. Emirates:::
+009AD8:South Africa :::
+00AFE9:South Africa :::
+4BA9E7:Turkey    :::
+00A097:South Africa :::
+00AA31:South Africa :::
+009EC0:South Africa :::
+4B1886:Switzerland :::
+003625:ufo       :::
+06A0E6:Qatar     :::
+406C3B:UK        :::
+008FFB:South Africa :::
+009425:South Africa :::
+0084C0:South Africa :::
+896196:U.A. Emirates:::
+04C119:Kenya     :::
+00F109:South Africa :::
+3C178E:Germany   :::
+76CDAD:Singapore :::
+040170:Ethiopia  :::
+4BA9E6:Turkey    :::
+0083B2:South Africa :::
+00895B:South Africa :::
+06A120:Qatar     :::
+896309:U.A. Emirates:::
+00B258:South Africa :::
+0089C6:South Africa :::
+00B46D:South Africa :::
+008888:South Africa :::
+CFD3FF:ufo       :::
+00B386:South Africa :::
+022730:Morocco   :::
+00DCF3:South Africa :::
+008833:South Africa :::
+030024:Botswana  :::
+04012E:Ethiopia  :::
+9DE06F:ufo       :::
+A1AD86:USA       :::
+00CCFC:South Africa :::
+20102A:Namibia   :::
+00995C:South Africa :::
+00A070:South Africa :::
+406A03:UK        :::
+00AF22:South Africa :::
+89631A:U.A. Emirates:::
+00D126:South Africa :::
+030043:Botswana  :::
+A97A4F:USA       :::
+E20D31:Argentina :::
+009AF6:South Africa :::
+E49248:Brazil    :::
+009AEE:South Africa :::
+00FE56:South Africa :::
+008256:South Africa :::
+04C226:Kenya     :::
+00B427:South Africa :::
+A19A2C:USA       :::
+08CEAF:Democratic Rep:::
+06A0F9:Qatar     :::
+201023:Namibia   :::
+8964FD:U.A. Emirates:::
+A1E208:USA       :::
+009618:South Africa :::
+20100A:Namibia   :::
+06A0AA:Qatar     :::
+006023:Mozambique :::
+06A100:Qatar     :::
+008EC7:South Africa :::
+8963DB:U.A. Emirates:::
+000500:ufo       :::
+00AAAF:South Africa :::
+00A8AE:South Africa :::
+822F05:India     :::
+06E010:Rwanda    :::
+704793:Myanmar   :::
+04C14B:Kenya     :::
+89C061:ufo       :::
+896465:U.A. Emirates:::
+00AFEB:South Africa :::
+0082D1:South Africa :::
+009498:South Africa :::
+406EA3:UK        :::
+00AFEC:South Africa :::
